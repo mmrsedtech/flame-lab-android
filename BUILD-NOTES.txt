@@ -1,0 +1,1 @@
+Android Studio project. No compiled APK included. See README-FA.md.
